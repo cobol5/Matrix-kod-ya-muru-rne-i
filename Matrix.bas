@@ -28,6 +28,7 @@ o = o + 1
 ıf o = len(w$) + 1 then z = 1: f = 100
 else
 o = 1
+if k$=chr$(27) then end
 end ıf
 
 end ıf
