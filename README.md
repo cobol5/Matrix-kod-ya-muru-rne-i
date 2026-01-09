@@ -1,2 +1,2 @@
-# Matrix-kod-ya-muru-rne-i
+# Matrix-kod-yagmuru-ornegi
 Quickbasic matrix kod yağmuru örneği
