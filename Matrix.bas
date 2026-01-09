@@ -1,5 +1,5 @@
 declare sub d (p!, s!, x!, y!)
-dım t(80)
+dim t(80)
 for i = 1 to 80
 t(i) = int(-50 * rnd)
 next
